@@ -1,0 +1,22 @@
+{
+  "name": "nodeteste",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkautzmann/nodeteste.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkautzmann/nodeteste/issues"
+  },
+  "homepage": "https://github.com/tkautzmann/nodeteste#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
